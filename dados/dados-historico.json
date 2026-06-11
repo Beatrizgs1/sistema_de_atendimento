@@ -1,0 +1,42 @@
+[
+  {
+    "id_atendimento": "1",
+    "id_cliente": "001",
+    "id_atendente": "A01",
+    "inicio": "2026-06-07T09:00:00",
+    "fim": "2026-06-07T09:15:00",
+    "duracao_minutos": 15.0
+  },
+  {
+    "id_atendimento": "2",
+    "id_cliente": "002",
+    "id_atendente": "A02",
+    "inicio": "2026-06-07T09:05:00",
+    "fim": "2026-06-07T09:20:00",
+    "duracao_minutos": 15.0
+  },
+  {
+    "id_atendimento": "3",
+    "id_cliente": "003",
+    "id_atendente": "A01",
+    "inicio": "2026-06-07T10:00:00",
+    "fim": "2026-06-07T10:08:00",
+    "duracao_minutos": 8.0
+  },
+  {
+    "id_atendimento": "4",
+    "id_cliente": "001",
+    "id_atendente": "A02",
+    "inicio": "2026-06-07T11:00:00",
+    "fim": "2026-06-07T11:22:00",
+    "duracao_minutos": 22.0
+  },
+  {
+    "id_atendimento": "5",
+    "id_cliente": "004",
+    "id_atendente": "A01",
+    "inicio": "2026-06-07T14:00:00",
+    "fim": "2026-06-07T14:10:00",
+    "duracao_minutos": 10.0
+  }
+]

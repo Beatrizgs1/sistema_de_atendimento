@@ -1,0 +1,12 @@
+[
+  {
+    "id_atendente": "A01",
+    "nome": "Fernanda Lima",
+    "ocupado": false
+  },
+  {
+    "id_atendente": "A02",
+    "nome": "Marcos Oliveira",
+    "ocupado": false
+  }
+]

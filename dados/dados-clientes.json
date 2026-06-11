@@ -1,0 +1,37 @@
+[
+  {
+    "id_cliente": "001",
+    "nome": "Ana Paula Silva",
+    "telefone": "11 99999-0001",
+    "prioridade": false,
+    "ativo": true
+  },
+  {
+    "id_cliente": "002",
+    "nome": "Carlos Eduardo Souza",
+    "telefone": "11 99999-0002",
+    "prioridade": true,
+    "ativo": true
+  },
+  {
+    "id_cliente": "003",
+    "nome": "Mariana Costa",
+    "telefone": "11 99999-0003",
+    "prioridade": false,
+    "ativo": true
+  },
+  {
+    "id_cliente": "004",
+    "nome": "Roberto Alves",
+    "telefone": "11 99999-0004",
+    "prioridade": true,
+    "ativo": true
+  },
+  {
+    "id_cliente": "005",
+    "nome": "Julia Ferreira",
+    "telefone": "11 99999-0005",
+    "prioridade": false,
+    "ativo": true
+  }
+]
